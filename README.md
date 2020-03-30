@@ -13,8 +13,8 @@ Projeto resultado da Semana Omnistack #11
 
 ## Projetos :bulb:
 - [x] Backend
-- [ ] Frontend
-- [ ] Mobile
+- [x] Frontend
+- [x] Mobile
 
 #### - Creditos para semana Omnistack #11 por [Rocketseat](https://rocketseat.com.br/)
 #### - Creditos para [Diego](https://github.com/diego3g) por dividir tanto conhecimento.
